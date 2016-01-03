@@ -1,0 +1,12 @@
+{
+	"name": "obf/",
+	"autoload": {
+		"files": ["autoload.php"]
+	},
+	"require": {
+		"obf/classloader": "1.*"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*"
+	}
+}

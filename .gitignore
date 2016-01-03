@@ -1,0 +1,44 @@
+# Composer files
+vendor
+composer.lock
+build/
+
+# IDE files
+# See: https://intellij-support.jetbrains.com/hc/en-us/articles/206827587-How-to-manage-projects-under-Version-Control-Systems
+#*.iml
+#.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/datasources.ids
+.idea/dictionaries
+.idea/libraries
+.idea/gradle.xml
+
+.nbproject
+.nbproject/*
+.nbproject/**/*
+
+# Editor temp files
+*.sw?
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build tools
+composer.lock
+coverage.xml
+vendor
+vendor/*
+api
+api/*
+doc
+doc/*
+.vagrant
+.vagrant/*
